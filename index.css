@@ -1,4 +1,4 @@
-/* Reset default browser styles */
+
 * {
   margin: 0;
   padding: 0;
@@ -16,7 +16,6 @@ body {
   color: #fff;
 }
 
-/* Input and button container */
 div:first-of-type {
   display: flex;
   margin-bottom: 20px;
@@ -47,7 +46,7 @@ div:first-of-type {
   background: #ff4757;
 }
 
-/* Weather info section */
+
 div:last-of-type {
   background: rgba(0, 0, 0, 0.3);
   padding: 20px 30px;
@@ -84,4 +83,5 @@ div:last-of-type {
 #temp img {
   width: 50px;
   height: 50px;
+
 }
